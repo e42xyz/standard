@@ -12,7 +12,10 @@ pictures.
  * Custom image galleries
 
 Don’t have much experience setting up a website? No problem, the Standard 
-takes care of most everything for you.
+theme makes things very easy. If you would like help setting up the theme 
+feel free to contact us.
+
+![Standard Theme screenshot](https://github.com/seismicthemes/standard/blob/master/screenshots/standard-1-1024x632.jpg?raw=true)
 
 ## Setup
 
