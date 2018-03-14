@@ -34,6 +34,7 @@ if ( ! function_exists( 'standard_setup' ) ):
 function standard_setup() {
 
 	add_editor_style();
+	add_theme_support( 'title-tag' );
 	add_theme_support( 'post-thumbnails' );
 	add_theme_support( 'automatic-feed-links' );
 
